@@ -1,0 +1,6 @@
+train: Datasets/final_dataset/train/images
+val: Datasets/final_dataset/valid/images
+test: Datasets/final_dataset/test/images
+
+nc: 2
+names: ['awake', 'drowsy']
